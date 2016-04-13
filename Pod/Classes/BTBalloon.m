@@ -20,7 +20,7 @@
 
 #import "BTBalloon.h"
 #import "BTBalloonArrow.h"
-#import <PureLayout.h>
+@import PureLayout;
 
 
 typedef NS_ENUM(NSInteger, BTBalloonArrowPosition) {
