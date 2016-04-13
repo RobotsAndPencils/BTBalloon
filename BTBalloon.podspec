@@ -27,5 +27,5 @@ Pod::Spec.new do |s|
 
   s.public_header_files = 'Pod/Classes/*.h'
   s.frameworks = 'UIKit'
-  s.dependency 'PureLayout', '~> 2.0.6'
+  s.dependency 'PureLayout', '~> 3.0.1'
 end
